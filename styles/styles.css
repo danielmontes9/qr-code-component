@@ -34,4 +34,8 @@ body {
       color: #7b879d;
       font-weight: 400; }
 
+@media only screen and (min-width: 768px) {
+  .card {
+    width: 320px; } }
+
 /*# sourceMappingURL=styles.css.map */
